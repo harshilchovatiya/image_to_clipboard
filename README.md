@@ -136,7 +136,9 @@ class _ClipboardExampleState extends State<ClipboardExample> {
 
 - **Platform Support**: Currently, this plugin supports only Android. iOS support will be added in future releases.
 - **Permissions**: Ensure that the necessary storage permissions are granted for the plugin to function correctly.
-- **Contributions**: Contributions are welcome! Please open issues or submit pull requests for any improvements or feature requests.
+- **Documentation**: For detailed documentation, refer to the [package documentation](https://pub.dev/packages/image_to_clipboard).
+- **Contributing**: Contributions are welcome! Please check the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
+- **Issues**: If you encounter any issues, please file them on the [issue tracker](https://github.com/harshilchovatiya/image_to_clipboard/issues).
 
 For more detailed information and updates, visit the [GitHub repository](https://github.com/harshilchovatiya/image_to_clipboard).
 

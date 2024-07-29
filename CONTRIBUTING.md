@@ -55,7 +55,7 @@ All submissions, including those from project members, require review. We use Gi
 We welcome contributions to expand ImageToClipboard to other platforms, such as iOS. If you have expertise in iOS development and are interested in contributing, please reach out or start contributing by following the above steps.
 
 For any major contributions or questions, feel free to contact 
-Harshil Chovatiya at [harhsilbmk@gmail.com](mailto:harhsilbmk@gmail.com).
+Harshil Chovatiya at [harshilbmk@gmail.com](mailto:harshilbmk@gmail.com).
 
 Thank you for your interest in contributing to ImageToClipboard!
 
