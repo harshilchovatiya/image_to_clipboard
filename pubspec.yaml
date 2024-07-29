@@ -2,8 +2,8 @@ name: image_to_clipboard
 description: "ImageToClipboard is a Flutter plugin for copying images to the clipboard on Android, enabling quick and convenient image sharing."
 version: 0.0.1
 homepage: https://github.com/harshilchovatiya/image_to_clipboard
-repository: https://github.com/harshilchovatiya/image_clipboard_plugin
-issue_tracker: https://github.com/harshilchovatiya/image_clipboard_plugin/issues
+repository: https://github.com/harshilchovatiya/image_to_clipboard
+issue_tracker: https://github.com/harshilchovatiya/image_to_clipboard/issues
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
